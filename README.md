@@ -6,5 +6,9 @@ A repository for module *Client Side Application Development* Semester 5.
 
 ## Exercises
 
-## Assessment
+-	[PHP](./exercises/PHP.md)
+-	[PHP Database](./exercises/PHPDBExercises.md)
+
+## Assessments
+
 
