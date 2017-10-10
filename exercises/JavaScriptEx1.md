@@ -84,7 +84,7 @@ JavaScript Exercise 1 -- Fundamentals
 		// use min and max to print the HTML table
 		// 
 		// add missing code here
-		///
+		//
 
 	}
 
