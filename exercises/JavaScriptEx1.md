@@ -44,50 +44,55 @@ JavaScript Exercise 1 -- Fundamentals
 
 1.	Using the code in ``cTofTable.html`` here:
 
-	```java
+	```javascript
 	<!doctype html>
 	<html>
 	<head>
 		<title>Celsius to Fahrenheit</title>
-		<script type="text/javascript" src="htmlFunctions.js"></script>
-		<script language="javascript">
-			// get min and max values right away
-			var min,max
-			min = prompt("Please enter the MINIMUM celsius value:", "")
-			max = prompt("Please enter the MAXIMUM celsius value:", "")
-		</script>
-
-		<!-- ----------------------------- -->
+		<script type="text/javascript" src="cTofTable.js"></script>
 		<style>
-			.odd
-			{
+			.odd {
 				background: #58beea;
 			}
 		</style>
-		<!-- ----------------------------- -->
-
 	</head>
 
 	<body>
-
-	<!-- ----------------------------- -->
 	<h1>Cel to Fahr</h1>
-	<div></div>
-	<!-- ----------------------------- -->
 
 	<script language="javascript">
-	  createTable(min,max);
+	  createTable();
 	</script>
+
 	</body>
 	</html>
 		
 	```		
 
-	write the missing JavaScript file ``htmlFunctions.js`` that implements the ``createTable()`` function to produce the output shown below where min=0 and max=5. 	
+	and the incomplete code in ``cTofTable.js`` here:
+
+	```javascript
+	// declare function to print table
+	function createTable()
+	{
+		// get min and max values 
+		var min,max
+		min = prompt("Please enter the MINIMUM celsius value:", "");
+		max = prompt("Please enter the MAXIMUM celsius value:", "");
+		
+
+		// use min and max to print the HTML table
+		// 
+		// add missing code here
+		///
+
+	}
+
+	```
+
+	write the missing code in the JavaScript file ``cTofTable.js`` that implements the ``createTable()`` function to produce the output shown below where min=0 and max=5. 	
 
 	![alt text](../images/CelsiustoFahrenheit.png "")
-
-	Also move any JavaScript code within the ``<head>`` tag into ``htmlFunctions.js``
 
 
 1.	The code below shows a function ``createMyList()`` being called in a Javascript file ``MyList.html``. 
