@@ -8,6 +8,8 @@ A repository for module *Client Side Application Development* Semester 5.
 
 -	[PHP](./exercises/PHP.md)
 -	[PHP Database](./exercises/PHPDBExercises.md)
+-	[JavaScript](./exercises/JavaScript.md)
+
 
 ## Assessments
 
