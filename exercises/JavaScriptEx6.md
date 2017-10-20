@@ -28,7 +28,7 @@
 	Display an appropriate warning message using red text if someone tries to register using 
 	an email that is incorrect and do not submit the form.
 
-	[This](http://www.w3schools.com/jsref/jsref_substring.asp>) web page has some code that you 
+	[This](http://www.w3schools.com/jsref/jsref_substring.asp) web page has some code that you 
 	can use in your solution.
 
 
