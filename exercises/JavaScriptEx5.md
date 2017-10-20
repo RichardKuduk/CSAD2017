@@ -39,7 +39,7 @@
 	![alt text](../images/cardDealer_html.png "Card Dealer")
 	
 
-	You can download the images from [here](https://github.com/barcaxi/wap2017/blob/master/files/cards.zip?raw=true).
+	You can download the images from [here](../files/cards.zip?raw=true).
 
 	Ensure a maximum of 5 cards can be dealt and never deal the same card more than once.
 
