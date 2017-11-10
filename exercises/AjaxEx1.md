@@ -26,7 +26,7 @@
 
 	``--HelloAjax.js--``
 
-	![alt text](../images/HelloAjax_js.png "Ajax Template JS file")
+	![alt text](../images/HelloAjax_js2.png "Ajax Template JS file")
 
 
 	``--ajaxData.txt--``
