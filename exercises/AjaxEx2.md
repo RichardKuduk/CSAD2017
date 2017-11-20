@@ -103,7 +103,7 @@
 
 1.	Modify the code in Match Results so that the scores are retrieved from the JSON file every 5 seconds. If a change is made to the scores in the JSON file it should be automatically updated in the HTML page.
 
-1.	Run the code in [SQL2JSON.zip](https://github.com/barcaxi/wap2017/blob/master/files/SQL2JSON.zip?raw=true) that demonstrates how JSON content can be generated from a SQL query. This is extremely useful.
+1.	Run the code in [SQL2JSON.zip](https://github.com/barcaxi/CSAD2017/blob/master/files/SQL2JSON.zip?raw=true) that demonstrates how JSON content can be generated from a SQL query. This is extremely useful.
 
 	You’ll need to use the *music* database.
 
